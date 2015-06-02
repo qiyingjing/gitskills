@@ -6,3 +6,4 @@ add oneline data test --no -ff
 repair a bug
 feature1 feature1
 wo shi yi ge hao ren
+ni shi yi ge hao ren
